@@ -1,0 +1,1 @@
+# Analisis-Performa-Model-Linear-Regression-dan-SVM-dalam-Prediksi-Harga-Saham-BBCA
