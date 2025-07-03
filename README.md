@@ -1,4 +1,3 @@
-**Analisis Performa Model Linear Regression dan SVM dalam Prediksi Harga Saham BBCA**
 ### **Deskripsi Proyek**
 
 Proyek ini bertujuan untuk memprediksi harga saham PT Bank Central Asia Tbk (BBCA) menggunakan dua metode model prediksi: **Linear Regression** dan **Support Vector Machine (SVM)**. Dataset yang digunakan mencakup harga saham BBCA dari tanggal 1 Juni 2022 hingga 1 Juni 2025. Evaluasi dilakukan untuk membandingkan akurasi antara kedua model berdasarkan metrik seperti **MAE**, **RMSE**, **MAPE**, dan **R²**.
@@ -62,9 +61,3 @@ Proyek ini bertujuan untuk memprediksi harga saham PT Bank Central Asia Tbk (BBC
 2. **Distribusi Harga Penutupan** - Memvisualisasikan distribusi harga saham BBCA.
 3. **Perbandingan Prediksi Linear Regression dan SVM** - Menampilkan perbandingan antara harga aktual dan prediksi untuk kedua model.
 4. **Pembagian Data Pelatihan dan Pengujian** - Visualisasi pembagian data menjadi pelatihan dan pengujian.
-
-Proyek ini dilisensikan di bawah **MIT License** - lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
----
-
-Silakan sesuaikan jika ada bagian yang perlu ditambahkan atau diubah sesuai dengan proyek Anda.
