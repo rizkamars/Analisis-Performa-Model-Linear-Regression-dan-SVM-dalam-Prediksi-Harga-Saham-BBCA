@@ -1,4 +1,4 @@
-#Analisis Performa Model Linear Regression dan SVM dalam Prediksi Harga Saham BBCA
+# Analisis Performa Model Linear Regression dan SVM dalam Prediksi Harga Saham BBCA
 
 ### **Deskripsi Proyek**
 
